@@ -6,5 +6,13 @@
       "skills": ["Artificial Intellingence", "Python", "Machine Learning"],
       
       "source": "https://github.com/Utkarshdev12/intrusion-detection-in-banking.git"
+    },
+    {
+      "title": "Glaucoma detection using CNN",
+      "imageSrc": "projects/glaucoma.jpeg",
+      "description": "This is a project made to detect Glaucoma disease using CNN.",
+      "skills": ["CNN Algorithm", "Python", "Machine Learning"],
+      
+      "source": "https://github.com/Utkarshdev12/Glaucoma-detection-usinng-CNN.git"
     }
   ]

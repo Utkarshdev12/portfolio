@@ -13,7 +13,7 @@ export const Education: React.FC = () => {
         <p>2021 - 2025</p>
         <p>CGPA: 8.20/10</p>
       </div>
-      <img
+      <img 
             src={getImageUrl("about/sit.jpeg")}
             alt="College icon"
           />
