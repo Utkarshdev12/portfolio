@@ -1,7 +1,7 @@
 import React from "react";
 
 import styles from "./Hero.module.css";
-
+import { getImageUrl } from "../../utils";
 
 export const Hero: React.FC = () => {
   return (
@@ -15,11 +15,9 @@ export const Hero: React.FC = () => {
           Contact Me
         </a>
       </div>
-      <img
-         src="/assets/hero/heroImage.jpeg"
-         alt="Hero image of me"
-        className={styles.heroImg}
-      />
+      <img src={getImageUrl("hero/heroimage.jpeg")} alt="Hero" />
+
+     
 
       <div className={styles.topBlur} />
       <div className={styles.bottomBlur} />
