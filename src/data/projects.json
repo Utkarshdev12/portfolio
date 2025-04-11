@@ -1,0 +1,10 @@
+[
+    {
+      "title": "Intrusion detection in Banking System using Machine Learning",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to detect cyberattacks in Banking.",
+      "skills": ["Artificial Intellingence", "Python", "Machine Learning"],
+      
+      "source": "https://github.com/Utkarshdev12/intrusion-detection-in-banking.git"
+    }
+  ]
